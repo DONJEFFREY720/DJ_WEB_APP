@@ -17,12 +17,22 @@ body{
      float: left;
 }
 
-.speed_div_img, .volume_div_img{
+#speed_div_img, #volume_div_img{
      width: 200px;
      border-radius: 100px;
+}
+
+.volume_div{
+     float: right;
 }
 
 #speed, #volume{
      font-size: 23px;
      margin: 15px;
+}
+
+canvas{
+     box-shadow: 10px 5px 5px rgb(0, 238, 255);
+     border: 5px solid white;
+     border-radius: 15px;
 }
