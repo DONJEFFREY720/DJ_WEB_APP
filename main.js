@@ -94,4 +94,4 @@ function modeLoaded(){
       console.log("LWX = ", leftWristX  , "LWY = " , leftWristY , "RWX = " , rightWristX , "RWY = " , rightWristY)
       }
 
-   }
+   };
